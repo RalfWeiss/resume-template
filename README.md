@@ -6,6 +6,11 @@
 
 ## Docs
 
+### Editor on the web
+
+Change `.com` for `.dev` and get live editor on the web:
+`https://github.dev/RalfWeiss/resume-template`
+
 ### Running locally
 
 To test locally, run the following in your terminal:
